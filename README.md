@@ -6,4 +6,4 @@
 		<p align="center"><a href="http://tinypic.com?ref=20fylns" target="_blank"><img src="http://i66.tinypic.com/20fylns.jpg" border="0" alt="Image and video hosting by TinyPic"></a><p>
 
 <h2 align="center">Portfolio Entries</h2>
-[InTASC 1](https://github.com/etrumble/Emily-Trumble-Portfolio/blob/master/InTASC%201.htm)
+<a href="https://github.com/etrumble/Emily-Trumble-Portfolio/blob/master/InTASC%201.htm">InTASC 1</a>
