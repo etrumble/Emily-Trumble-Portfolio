@@ -16,3 +16,4 @@
 <p align="center"><a href="https://etrumble.github.io/InTASC_7/">InTASC 7</a></p>
 <p align="center"><a href="https://etrumble.github.io/InTASC_8/">InTASC 8</a></p>
 <p align="center"><a href="https://etrumble.github.io/InTASC_10/">InTASC 10</a></p>
+<p align="center"><a href="https://etrumble.github.io/Technology_Standard/">Technology Standard</a></p>
