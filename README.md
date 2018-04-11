@@ -7,4 +7,4 @@
 
 <h2 align="center">Portfolio Entries</h2>
 <p align="center"><a href="">InTASC 1</a></p>
-<p align="center"<a href="https://etrumble.github.io/InTASC_10/">InTASC 10</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_10/">InTASC 10</a></p>
